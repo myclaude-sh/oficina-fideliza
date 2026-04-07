@@ -1,36 +1,21 @@
-# Oficina Fideliza
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/oficina-fideliza)
-
-Generates complete automated post-service sequences for Brazilian auto repair shops and dealerships — NPS, future service reminders, no-show recovery, and seasonal alerts. Turns one-time customers into recurring clients.
-
-| | |
-|---|---|
-| **Category** | skills |
-| **Version** | 1.0.0 |
-| **Author** | [@claudio_felix](https://myclaude.sh/u/claudio_felix) |
-| **License** | MIT |
-| **Price** | Free |
-
-## Installation
-
-### Via MyClaude CLI
-```bash
-myclaude install oficina-fideliza
-```
-
-### Via Vercel Skills
-```bash
-npx skills add myclaude-sh/oficina-fideliza
-```
-
-### Via Claude Code Plugin System
-```
-/plugin marketplace add myclaude-sh/registry
-/plugin install oficina-fideliza@myclaude-sh
-```
-
-## About
+---
+name: oficina-fideliza
+display_name: Oficina Fideliza
+description: "Generates complete automated post-service sequences for Brazilian auto repair shops and dealerships — NPS, future service reminders, no-show recovery, and seasonal alerts. Turns one-time customers int"
+version: 1.0.0
+author: claudio_felix
+license: MIT
+tags:
+  - "automotive"
+  - "retention"
+  - "whatsapp"
+  - "brazil"
+  - "nps"
+  - "post-service"
+  - "customer-success"
+marketplace_url: "https://myclaude.sh/p/oficina-fideliza"
+user-invocable: true
+---
 
 # Oficina Fideliza
 
@@ -80,13 +65,3 @@ Brazilian automotive sector — generated messages are in Portuguese (pt-BR) as 
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`automotive` `retention` `whatsapp` `brazil` `nps` `post-service` `customer-success`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/oficina-fideliza) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

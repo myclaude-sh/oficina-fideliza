@@ -1,0 +1,15 @@
+name: oficina-fideliza
+version: 1.0.0
+type: skill
+description: "Generates complete automated post-service sequences for Brazilian auto repair shops and dealerships — NPS, future service reminders, no-show recovery, and seasonal alerts. Turns one-time customers into recurring clients."
+price: 0
+license: MIT
+entry: SKILL.md
+tags:
+  - automotive
+  - retention
+  - whatsapp
+  - brazil
+  - nps
+  - post-service
+  - customer-success
